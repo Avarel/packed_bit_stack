@@ -1,0 +1,11 @@
+[package]
+name = "packed-bit-stack-bin"
+version = "0.1.0"
+authors = ["Avarel <avarelpm@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "packed_bit_stack"
+edition = "2018"
+
+[dependencies]
